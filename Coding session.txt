@@ -1,0 +1,170 @@
+
+Day-1 2 May 2022
+__________________
+Software
+
+Set of programs
+
+1. system software--- OS
+2. Application software---chrome, word, excel, pwt, notepad, Eclipse (IDE)
+
+	ready to use
+
+customized (as per the requirements)-- banking, school management
+
+SDLC: 
+
+Example: FB (web application)
+
+1. Requirement analysis---- SRS (software requirement specification)
+
+2. System designing---- algorithms, flowcharts, pseudocodes, class diagrams, UML diagrams, DFD etc.
+
+3. Coding phase----programming language
+
+		IPO
+		Input---process--- output
+
+		cup of coffee
+			coffee powder
+			sugar
+			milk
+			gas
+			water
+			container
+			lighter
+			stainer
+			cup
+
+			method (process)
+
+			Output: coffee
+
+	Real life example:
+
+		Login page	
+		
+			User id: <<input>>
+			password: <<input>>
+	
+			process---- Validation rule
+
+			YES: Home page 
+			NO:  Error page
+
+4. Testing phase:
+	Life cycle---
+
+5. Implementation phase: End user will start using the product/software
+
+6. Maintenance phase:
+
+
+Programming: 
+
+Machine language (Binary language)----- 0 and 1---- computer
+
+Intermediate--- Language translators (compiler and Interpreter)
+
+High level laguage--- human understandable language
+
+
+Logic building and problem solving skills
+__________________________________________
+Algorithm:
+__________
+
+example:
+
+Calculator application
+	addition
+	subtraction
+	multiplication
+	division
+	modulus
+
+1. start
+2. READ number1
+3. READ number2
+4. READ choice from user
+5. if choice is +
+	result=number1+number2
+
+	else if choice is -	
+	result=number1-number2
+
+	else if choice is *
+	result=number1*number2
+	
+	else if choice is /
+	result=number1/number2
+	
+	else 
+	result=number1%number2
+6. PRINT result
+7. stop
+
+
+Assignments:
+
+Selection construct
+if
+if -else
+nested if
+if -else-if
+switch-case
+
+
+1. Write an algo to check whether the entered number is odd or even
+2. Write an algo to accept one number from user and display whether the number is zero/positive/negative
+3. Write an algo to accept a character from user and display whether it is consonant or vowel
+4. Write an algo to read the marks of 3 subjects from user and display the grade as per below conditions:
+	>=85%	Grade is "A"
+	>=70 and <85 Grade is "B"
+	>=60 and <70 Grade is "C"
+	>=50 and <60 Grade is "D"
+	else
+		No Grade
+
+5. Write an algo to read a number from user and display the square and cube of entered number depending on the choice of user.
+______________________________________________________________________________________________
+
+Day-2 3 May 2022
+
+Flowchart and Logic building exercises based on Selection and Iterative constructs
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+			
+	
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
