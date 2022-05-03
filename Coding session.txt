@@ -133,38 +133,55 @@ Day-2 3 May 2022
 
 Flowchart and Logic building exercises based on Selection and Iterative constructs
 
+Hands on practice done in session on below problems
+
+1. Draw a flowchart to check whether the entered number is odd or even
+
+	Input: N
+	N is even or odd
+
+	if N is divisible by 2 then it is Even otherwise it is Odd
 
 
+2. Draw a flowchart to accept one number from user and display whether the number is zero/positive/negative
 
 
+3. Write an algo to accept a character from user and display whether it is consonant or vowel
 
+	Input: ch
+	'a' or '5' or '@' or "Ravita" is a String (Set of characters)
 
+	logical operators: we combine multiple conditions
+	Logical OR-----If any of the condition is TRUE 
+	Logical AND----if all the conditions are TRUE
 
-
-
-
+	ch=='a' or ch=='i' or ch=='e' or ch=='o' or ch=='u'
 	
+5 Draw a flowchart to read a number from user and display the square and cube of entered number depending on the choice of user.
 
+		Inputs: 2 inputs
+		N
+		choice---'c' or 's'
 
+_____________________________________________________________________________________________________
 
+Assignments- Day-2
 
-			
-	
+1. Draw a flowchart to accept any number between 1-7 and display corresponding day of the week.
+	For eg.
+	Input: 1
+	Output: Sunday (First Day of the week)
+	if Input is not in between 1-7, then display "Wrong number entered"
+2. Draw a flowchart to accept principal amount, rate of interest and time from user and display the simple interest.
 
-			
+3. Draw a flowchart to accept the length and breadth from user and display whether the respective figure is Rectangle or Square
 
+4. Draw a flowchart to accept 3 numbers from user and display the largest number
 
+5. Draw a flowchart to accept Year from user and display whether the entered Year is leap year or not.
 
+_____________________________________________________________________________________________________		
 
+Agenda of Day-3
 
-
-
-
-
-
-
-
-
-
-
-
+Iterative constructs and module/Procedures in Flowcharts and practical implementation in Raptor tool.
