@@ -185,3 +185,100 @@ ________________________________________________________________________________
 Agenda of Day-3
 
 Iterative constructs and module/Procedures in Flowcharts and practical implementation in Raptor tool.
+
+
+Case study:
+
+	1. Robin is a small kid, he is trying to write the counting from 1 to N.
+		His mother is trying to help him in this.
+		If we want to make a program to help Robin in above case, what we concept we can use and 		how? 
+
+		1------------Starting point (counter)
+		2------------increment by 1 or add 1 in existing counter
+		3
+		4
+		5
+		.
+		.
+		N
+	
+		Constraint:
+		N>1 and N<=100
+
+		Test Case
+		N=10
+		expected output: 1 2 3 4 5 6 7 8 9 10
+
+
+	2. User is trying to login on a web application
+		User ID + password
+	
+
+Practice :
+
+	1. Draw a flowchart to read base (b) and power (p) from user and display
+		b^p
+
+		Input:
+		b=3
+		p=4
+
+		3*3*3*3= 81
+
+	Complexity: 2
+
+
+Practice : 
+
+	Draw a flowchart to read a number (N) from user and display the factorial of entered number:
+
+		N!
+		Input: N=3
+		3*2*1=6
+
+		Input: N=5
+		5*4*3*2*1= 120
+
+
+___________________________________________________________________________________________ 
+
+Procedure/Methods/Functions etc.
+		
+TOP DOWN Approach: It's a common approach in problem solving concepts. while we split a big problem in smaller parts till we receive simplest solution. In this way we make sure problem is easily understandable and easy to debug in case of any issue.
+
+
+	Project
+
+
+
+task1		task2		task3		task4....
+
+task1.1 
+task1.2
+.
+.
+.
+
+Procedures: part of program which is developed to solve a particular task. It is based on the concept of WORM (Write once run multiple) times. In Raptor we can add procedures and define the functionality. Parameters can be passed in procedures in two forms: input and output
+
+Inputs are the values, we are passing in procedure
+Output is the result we will receive after the execution of procedure.
+
+
+Assignments: (4 May 2022)
+
+1. Draw a flowchart to print the table of entered number.
+2. Draw a flowchart to print the sum of first N even numbers.
+3. Draw a flowchart to print the product of squares of first 5 integer numbers
+4. Draw a flowchart to read 10 numbers from user and display the largest and smallest number entered by user.
+5. Draw a flowchart to read a number between the range of 500-9999 and display the sum of digits of entered number.
+_________________________________________________________________________________________
+
+Agenda of Day-4
+
+Discussion on problems
+Exercises/Challenges
+
+Nested Loops/Nested selection constructs
+Arrays
+introduction of Coding platform
