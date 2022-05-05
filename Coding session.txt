@@ -341,6 +341,24 @@ Declare an Array of integer data type having size 5.
 
 See the demonstrations of today's session on GitHub
 
+Assignments based on Array
+
+1. Draw a flowchart to read an Array of 5 integer values and display:
+		the sum of values
+		the average of values
+		the largest value entered
+		the smallest value entered
+
+2. Draw a flowchart to read an Array of 10 integer values and display how many even numbers are entered by user.
+
+3. Draw a flowchart to read an Array of 10 integer values and display the Array in reverse order.
+		for example: 
+			1,2,3,4,5
+			
+			it must be displayed as 
+			5,4,3,2,1
+
+
 ___________________________________________________________________________________________________
 
 Agenda of Day-5
