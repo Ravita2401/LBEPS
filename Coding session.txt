@@ -277,8 +277,75 @@ ________________________________________________________________________________
 Agenda of Day-4
 
 Discussion on problems
+
+1. Procedure call in Raptor
+
+	Draw a flowchart to read a choice from user for ---- prime number/perfect number and depending on the choice perform the respective operation.
+
+
+	1. Check prime number
+	2. Check perfect number
+	See demonstration on GitHub "demo0505-I"
+
+Array
+
+	a set of similar type of elements
+	
+	Real life example:
+		Want to create a batch for SA location wise
+			aadhar number
+			name
+			Passout year
+			DOB
+			Contact number
+			mail id
+			address
+
+Student1----------1000
+Student2----------3590
+Student3-----------500
+
+Student={1 2 3 4 5 6..........50}
 Exercises/Challenges
 
+Challenge 1:
+
+1. Draw a flowchart to swap two values using procedure SwapValues.
+2. Draw a flowchart to print the numbers in between the range x to y those are divisible by 5 and 7.
+	Constraints:
+	10<=x<=100
+	10<y<=150
+	x<y
+
+Arrays:
+
+Set of homogenous element is called Array.
+
+Need of Array:
+1. When we need fixed number of elements of similar data type.
+2. Need to store all elements in contiguous memory locations
+3. Want to access elements randomly.
+4. Array are based on static memory allocation concept, means memory is allocated to array at compile time.
+
+Declare an Array of integer data type having size 5.
+			int arr[5];
+
+			lowest index position: 0
+			highest index position: N-1, where N is the size of Array
+
+			arr[0]
+			arr[1]
+			arr[2]
+			arr[3]
+			arr[4]
+
+See the demonstrations of today's session on GitHub
+
+___________________________________________________________________________________________________
+
+Agenda of Day-5
+
 Nested Loops/Nested selection constructs
-Arrays
+
 introduction of Coding platform
+
